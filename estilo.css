@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,300italic,400italic);
+
+body{
+  font-family: 'Open Sans', sans-serif;
+    font-size:14px;
+  text-align:center;
+  cursor: pointer;
+  user-select: none;
+}
+
+#numero-aleatorio{
+  padding:100px 0;
+  font-size:200px;
+  font-weight: 700;
+  text-align:center;
+  line-height:100px;
+}
